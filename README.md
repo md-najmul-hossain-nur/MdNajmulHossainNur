@@ -1,4 +1,8 @@
-<!-- Profile Title -->
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md.+Najmul+Hossain+Nur;App+Developer+%7C+Software+Developer;Website+Designer+%7C+Website+Developer)](https://git.io/typing-svg)
+
+---
+
 <h1 align="center">Hi, I'm Md. Najmul Hossain Nur 👋</h1>
 
 <p align="center">
@@ -45,10 +49,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/md-najmul-hossain-nur-8726b12a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YourFacebook" target="_blank">
+  <a href="https://www.facebook.com/najmulhossain.nur" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://discord.gg/YourDiscord" target="_blank">
