@@ -42,9 +42,8 @@
 ## 🎯 Fun Zone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/coding-animation.gif" width="400" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/coding.gif" width="400" alt="Coding Animation" />
 </p>
-
 
 ---
 
