@@ -1,39 +1,63 @@
-# Hi, I'm Md. Najmul Hossain Nur 👋
+<!-- Profile Title -->
+<h1 align="center">Hi, I'm Md. Najmul Hossain Nur 👋</h1>
 
-🎓 I'm a Computer Science student at United International University (UIU), passionate about **App Development**, **Software Development**, **Website Design**, and **Website Development** — with a commitment to **innovation, detail, and impactful collaborations** in the tech industry.
+<p align="center">
+  🎓 Computer Science student at United International University (UIU) <br>
+  💡 Passionate about App Development, Software Development, Website Design, and Website Development <br>
+  🚀 Committed to innovation, detail, and impactful collaborations in tech.
+</p>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🛠 Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,mysql,git,figma,linux" />
+</p>
+
+---
+
+## 🎯 Fun Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/coding.gif" width="400" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YourFacebook)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YourDiscord)
+<p align="center">
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/YourFacebook" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/YourDiscord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square" />
+</p>
